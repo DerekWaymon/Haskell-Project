@@ -4,7 +4,7 @@ The study of Haskell and the Goldbach Conjecture problem.
 
 Move to file directory.
 
-Create .exe: --make [file name]
+Create .exe: ghc --make [file name]
 
 Run: :/[filename].
 
