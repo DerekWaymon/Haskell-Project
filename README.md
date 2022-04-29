@@ -6,7 +6,7 @@ Move to file directory.
 
 Create .exe: ghc --make [file name]
 
-Run: :/[filename].
+Run: : ./[filename].
 
 
 The Goldbach Conjecture:   goldbach.hs
